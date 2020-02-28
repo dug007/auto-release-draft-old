@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ecampidoglio/auto-release-draft.git"
+    "url": "git+https://github.com/dug007/auto-release-draft.git"
   },
   "keywords": [
     "actions",
     "node",
     "setup"
   ],
-  "author": "Enrico Campidoglio",
+  "author": " dug007",
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.2.0",
