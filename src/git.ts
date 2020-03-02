@@ -19,7 +19,7 @@ export async function getPreviousVersionTag(tag: string): Promise<string | null>
         previousTag += data.toString()
       }
     },
-    silent: true,
+    silent: true, // suppress output to build log
     ignoreReturnCode: true
   }
 
